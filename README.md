@@ -22,6 +22,7 @@ For every character inputted by the user, an asterisk is printed. When any non c
 ## Usage
 
 **Download module using pip:**
+
 *Open Terminal(Linux/macOS):*
 ```
 pip3 install getasterisk
@@ -32,6 +33,7 @@ py -m pip install getasterisk
 ```
 
 **Install module using pip:**
+
 *getasterisk() takes 1 argument which is the question to be prompt:*
 ```
 import getasterisk
